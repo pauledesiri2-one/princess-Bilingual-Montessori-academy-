@@ -1,0 +1,7 @@
+{
+  "name": "Princess Bilingual Management Portal",
+  "description": "A comprehensive internal administrative dashboard designed for Madam Gloria to manage school activities, finances, staff records, transportation, and institutional policies for Princess Bilingual School.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
